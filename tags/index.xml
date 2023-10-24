@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GeoDataPoints</title>
-    <link>https://geodatajack.github.io/TempSite-Public/tags/</link>
+    <link>https://geodatapoints.com/tags/</link>
     <description>Recent content in Tags on GeoDataPoints</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://geodatajack.github.io/TempSite-Public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://geodatapoints.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

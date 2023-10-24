@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geodatajack.github.io/TempSite-Public/impressum/</loc>
+    <loc>https://geodatapoints.com/impressum/</loc>
     <lastmod>2023-10-23T13:27:18+02:00</lastmod>
   </url><url>
-    <loc>https://geodatajack.github.io/TempSite-Public/privacy/</loc>
+    <loc>https://geodatapoints.com/privacy/</loc>
     <lastmod>2023-10-23T13:19:47+02:00</lastmod>
   </url><url>
-    <loc>https://geodatajack.github.io/TempSite-Public/</loc>
+    <loc>https://geodatapoints.com/</loc>
     <lastmod>2023-10-20T12:52:40+02:00</lastmod>
   </url><url>
-    <loc>https://geodatajack.github.io/TempSite-Public/categories/</loc>
+    <loc>https://geodatapoints.com/categories/</loc>
   </url><url>
-    <loc>https://geodatajack.github.io/TempSite-Public/tags/</loc>
+    <loc>https://geodatapoints.com/tags/</loc>
   </url>
 </urlset>

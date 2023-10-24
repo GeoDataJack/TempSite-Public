@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GeoDataPoints</title>
-    <link>https://geodatajack.github.io/TempSite-Public/</link>
+    <link>https://geodatapoints.com/</link>
     <description>Recent content on GeoDataPoints</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 12:52:40 +0200</lastBuildDate><atom:link href="https://geodatajack.github.io/TempSite-Public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 12:52:40 +0200</lastBuildDate><atom:link href="https://geodatapoints.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impressum</title>
-      <link>https://geodatajack.github.io/TempSite-Public/impressum/</link>
+      <link>https://geodatapoints.com/impressum/</link>
       <pubDate>Mon, 23 Oct 2023 13:27:18 +0200</pubDate>
       
-      <guid>https://geodatajack.github.io/TempSite-Public/impressum/</guid>
+      <guid>https://geodatapoints.com/impressum/</guid>
       <description>Information in accordance with Section § 5 TMG
 JACK STEPHAN
 Jack Stephan
@@ -33,10 +33,10 @@ The contents of our pages have been created with the utmost care. However, we ca
     
     <item>
       <title>Privacy</title>
-      <link>https://geodatajack.github.io/TempSite-Public/privacy/</link>
+      <link>https://geodatapoints.com/privacy/</link>
       <pubDate>Mon, 23 Oct 2023 13:19:47 +0200</pubDate>
       
-      <guid>https://geodatajack.github.io/TempSite-Public/privacy/</guid>
+      <guid>https://geodatapoints.com/privacy/</guid>
       <description>I do not store your data. I do not share your data with anybody. Enjoy this site anonymously</description>
     </item>
     
